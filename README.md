@@ -1,5 +1,5 @@
 # 💫 About Me:
-im jaypee,  18 Years of age and I'm studying Information technology at Saint Columban College
+Im jaypee,  18 Years of age and I'm studying Information technology at Saint Columban College
 
 
 # 💻 Tech Stack:
